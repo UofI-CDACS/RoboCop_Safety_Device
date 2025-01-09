@@ -36,7 +36,7 @@ The system measures the distance of nearby objects using an ultrasonic sensor, c
 
 2. **Clone the Repository**:
     -   ```
-            git clone https://github.com/
+            git clone https://github.com/UofI-CDACS/RoboCop_Safety_Device.git
         ```
 
 3. **Install project requirements**:
