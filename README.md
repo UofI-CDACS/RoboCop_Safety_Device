@@ -73,6 +73,7 @@ The system measures the distance of nearby objects using an ultrasonic sensor, c
      - **IP Address**: `129.xx.xx.xx`
      - **Port**: `502`
      - **Register**: `5` (holding register for the distance)
+          - This Register stores 16 bit value of unsigned integers
 
 3. **View on LCD**:
    - The LCD displays the device’s static IP and the measured distance in real time.
